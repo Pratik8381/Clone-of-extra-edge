@@ -1,0 +1,640 @@
+@media only screen and (min-width: 1300px){
+    .container{max-width: 1280px;}
+}
+@media only screen and (max-width: 1500px){
+    .career-detail .social-sharing ul{left: -90px;}
+    .testimonial-sec:before{width: 41%;}
+    
+}
+@media only screen and (max-width: 1366px){
+    .testimonial-single-slider button.slick-prev{left: -10px;}
+    .testimonial-single-slider button.slick-next{right: -10px;}
+
+    .mail-us{padding: 30px;}
+    .admission-sec .collapse.show img{max-width: 660px;}
+
+    .investor-profile-box .media{height: 350px;}
+
+}
+@media only screen and (max-width: 1300px){
+     .container{max-width: 100%;padding-left: 40px;padding-right: 40px;}   
+     .about-banner .media{max-width: 54%;}
+     .admission-sec .collapse.show img{max-width: 540px;right: -560px;}
+}
+@media only screen and (max-width: 1200px){
+    .admission-sec .collapse.show img{max-width: 370px;right: -380px;}
+    .news-detail .social-sharing {margin: 15px 0 0 -80px;}
+
+    .side-bar li a{white-space: nowrap;}
+    .product-update-sec .crd-sec{max-width: 100%;}
+    .product-update-sec{padding-left: 50px;}
+    .demo-inner .left-block{padding-right: 30px;width: 47%;min-width:47%;}
+    .demo-inner  .right-block{width: 50%;min-width:50%;}
+    .awd-logo img{margin-bottom: 10px;}
+    .awd-logo .d-flex{flex-wrap: wrap;align-items: center;justify-content: center;}
+    
+    ul.social-link li{padding-left: 15px;}
+    .footer-btm-left a{margin-left: 15px;}
+    section.mywork-sec .icon-box img{ width: 70px;}
+    .previous-webinars .heading h3{font-size: 35px;}
+}
+@media only screen and (max-width: 1024px){
+   .container{max-width: 100%;padding-left: 25px;padding-right: 25px;}
+    header .navbar-expand-lg .navbar-nav .nav-item{margin-right: 20px;}
+    header .navbar-expand-lg .navbar-nav .nav-link.btn{min-width: 145px;}
+    footer .left-col{width: 755px;margin-right: 50px;padding-right: 50px;}
+    .main-banner, .main-banner.main-banner-inner-pg{padding-top: 145px;}
+    .common-content h1{font-size: 38px;line-height: 52px;}
+    .main-banner h2,.main-banner h1{padding-bottom: 15px;}
+    .main-banner .row{padding-bottom: 0;}
+    .main-banner .img-sec{max-width: 90%;}
+    .admission-sec{padding: 130px 0 80px 0;}
+    .admission-sec .collapse.show img{max-width: 440px;right: -450px;}
+    .admission-sec .card{width: 500px;}
+    .why-institutes{padding: 80px 0;}
+    .why-institutes h2{padding-bottom: 35px;}
+    body,.admission-sec .card-body{font-size: 16px;line-height: 28px;}
+    .admission-sec .card-body{padding: 0 25px 18px;}
+    .admission-sec .card .card-header .btn-header-link{padding: 18px 25px;}
+    .tabbing-sec{padding-top: 80px;}
+    .tab-content-sec{max-width: calc(100% - 40px);}
+    .tabbing-sec .nav-tabs{padding-left: 40px;padding-right: 40px;}
+    .call-to-act-left{max-width: 600px;}
+
+    .video-sec{max-width: 100%;}
+    .testimonial-sec-product{padding: 40px 60px;}
+    .our-partner-sec{padding: 80px 0;}
+    .our-partner-sec h3, .con-img-sec h3{font-size: 30px;}
+    .our-partner-sec .col-md-7, .our-partner-sec .col-md-5{max-width: 50%; flex: 0 0 50%}
+    .con-img-sec{padding: 80px 0;}
+    .con-img-sec .row{padding-bottom: 60px;}
+    .additional-feature ul{padding-left: 30px;}
+    .our-word-sec{padding: 80px 0;}
+    .our-word-sec .count li h2{font-size: 50px;}
+    .our-word-sec.case-word-sec{padding: 60px 0 0;}
+    .case-study-details{padding-top: 80px;}
+    .card-inner{padding: 35px 20px;}
+    .card-inner h4{font-size: 18px;}
+    .edu-crm-sec{padding: 80px 0 50px;}
+    .why-use-extraadge{padding-bottom: 80px;}
+    .why-use-extraadge .row .col-md-4{padding-left: 15px;padding-right: 15px;}
+    .why-use-extraadge .row{margin-left: -15px;margin-right: -15px;}
+    .edu-crm-sec-inner-pg{padding: 80px 0 50px;}
+    /* .our-partner-sec.our-partner-sec-inner-pg{padding-bottom: 80px;} */
+    .our-webinars{padding-top: 145px;}
+    .our-webinars .title{margin-bottom: 35px;}
+    .call-to-act-box h3{font-size: 22px;}
+    .call-to-act-box .call-to-act{margin-left: 20px;}
+    .call-to-act-box .call-to-act button{min-width: 135px;}
+    .previous-webinars-box .media img{min-height: 200px;max-height: 200px;}
+    .previous-webinars-box .content{padding: 20px 15px;}
+    .blog-list .tab-pane{padding-bottom: 0;}
+    section.previous-webinars.blog-list{padding-bottom: 30px;}
+    .previous-webinars-box ul{flex-wrap: wrap;}
+    .blog-product-sec .card-inner{padding: 30px 15px;}
+    .content-btm{margin-top: 60px;}
+    .blog-detail{padding-top: 80px;}
+    .blog-detail .col-md-7, .blog-detail .col-md-5{flex: 0 0 100%;max-width: 100%;}
+    .eblog-detail .col-md-7, .eblog-detail .col-md-5{flex: 0 0 100%;max-width: 100%;}
+    .blog-detail .common-form{margin: 40px auto 0;}
+    .eblog-detail .common-form{margin: 40px auto 0;}
+    .privacy-con-sec{padding: 80px 0;}
+    .product-update-detail{padding-top: 145px;}
+    .career-detail .social-sharing ul{left: auto;right: 0;}
+    .career-detail{padding-top: 145px;}
+    .career-detail .common-content,.career-detail .content{padding-right: 70px;}
+    .testimonial-career{padding: 80px 0;}
+    .gallery-sec{padding: 0;}
+    .career-experience .content{padding-left: 15px;}
+    .career-experience, .curent-opening{padding: 80px 0;}
+    .curent-opening table{table-layout: auto;}
+    .right-block{width: 490px;}
+    .left-block{min-width: 450px;width: 450px;}
+    .awd-logo .d-flex{flex-wrap: wrap;}
+    .awd-logo img{margin-bottom: 15px;}
+    .book-a-demo{padding: 90px 0 50px;}
+    .about-banner .media {max-width: 44%;bottom: -60px;}
+    .about-banner .content-sec{max-width: 54%;}
+    section.main-banner.about-banner{margin-bottom: 0;padding: 200px 0 60px;height: auto;}
+    .about-extraaedge{padding: 80px 0;}
+    .logo-section{margin-top: 80px;}
+    section.con-img-sec.con-img-sec-about{padding-top: 0;}
+    .career-banner{height: auto;padding-bottom: 60px;}
+    .testimonial-career-slider button.slick-prev, .testimonial-career-slider button.slick-next{top: 12px;}
+    .testimonial-career-slider button.slick-next{right: 0;transform: rotate(180deg);top: -50px}
+    .testimonial-career-slider button.slick-prev{margin-top: 0;transform: rotate(0deg);top: -50px;right: 50px}
+    .testimonial-career-slider .single-slide{padding: 0 5px;}
+    .con-right img{max-width: 420px;}
+
+    .error-section h2{font-size: 160px;}
+    .investor-tab.customer-tab{padding: 60px 0 0;}
+
+    section.previous-webinars.blog-list.news-list .previous-webinars-box{flex-direction: column;height: 100%;}
+    .news-list .previous-webinars-box .media{margin-top: 20px;}
+    .news-box-main{margin-bottom: 30px;}
+
+    .search-banner .media{justify-content: center;}
+    .career-experience-slider button.slick-prev{left: 52%;}
+    .career-experience-slider button.slick-next {left:59%;}
+    .career-experience-slider button.slick-prev, .career-experience-slider button.slick-next{bottom: -10px;}    
+    section.blog-detail.news-detail{padding-top: 140px;}
+    .news-detail .social-sharing{margin: 15px 0 0 -70px;}
+    .news-detail .center-content {max-width: 80%;}
+    .feedback-image .wrap-emjio{padding: 0 15px;}
+    .product-update-sec{padding-left: 25px;}
+
+    .related-blogs .call-to-act-box{padding-top: 30px;}
+
+    .footer-btm{flex-direction: column;}
+    .previous-webinars{padding-top: 145px;}
+}
+
+@media only screen and (max-width: 991px){
+    body.menu-overlay{ overflow: hidden; }
+    .navbar-brand{z-index: 112;}
+    header .navbar-toggler{ z-index: 111; padding: 0; height: auto; outline: none; background-color: transparent;    width: 60px;height: 60px; border-radius: 50%; background: #fff; display: block !important;}
+    header .navbar-toggler span{font-size: 13px;color: #f68e25;}
+    header .navbar-toggler .icon-bar { width: 23px; transition: all 0.2s; margin: 5px auto; height: 2px; background: #f58d25; display: flex;transition: all 0.4s linear;border-radius: 10px;}
+    header .navbar-toggler .top-bar { transform: translateY(6px) translateX(-1px) rotate(45deg);transform-origin: center;}
+    header .navbar-toggler .middle-bar { opacity: 0; }
+    header .navbar-toggler .bottom-bar { transform: translateY(-8px) translateX(-1px) rotate(-45deg);transform-origin: center;}
+    header .navbar-toggler .menu-text{display: none;font-weight: 600;}
+    header .navbar-toggler .close-text{display: contents;font-weight: 600;}
+    header .navbar-toggler.collapsed .menu-text{display: contents;}
+    header .navbar-toggler.collapsed .close-text{display: none;}
+    header .navbar-toggler.collapsed .top-bar { transform: rotate(0);}
+    header .navbar-toggler.collapsed .middle-bar {opacity: 1; width: 32px; margin: 0 auto;}
+    header .navbar-toggler.collapsed .bottom-bar { transform: rotate(0);} 
+    .navbar-expand-lg .navbar-toggler.collapsed{width: 60px;height: 60px; border-radius: 50%;background: #fff;z-index: 111; padding: 0; outline: none; display: block !important;}
+    header .navbar-collapse{ display: flex !important; position: fixed; visibility: hidden; top: 0;left: 0;right: 0;opacity: 1; background: none;height: 100%; width: 100%; z-index: 99; padding: 0 20px; transition: all 1s cubic-bezier(.4,0,0,1); text-align: center; align-items: center; justify-content: center; flex-direction: column; }
+    body.menu-overlay .navbar-collapse{ right: 0; opacity: 1; visibility: visible;justify-content: center;overflow-y: auto;}
+    header .navbar-collapse::after{position: absolute;content: ''; background:linear-gradient(91.53deg, #1A335D 0%, #1EAAE2 100%); top: 0;left: 0;width: 100%;height: 100%;transform: scaleX(0);transition: transform .45s cubic-bezier(.4,0,0,1);z-index: -1;}
+    body.menu-overlay .navbar-collapse::after{transform: none;transition: transform .45s cubic-bezier(.4,0,0,1);}
+    body .navbar-collapse .navbar-nav>li>a{opacity: 0; transform: translate3d(0,100%,0);transition: transform .45s cubic-bezier(.4,0,0,1);}
+    header .navbar-expand-lg .navbar-nav .nav-item{overflow: hidden;}
+    body .navbar-collapse.anim_done .navbar-nav>li { overflow: visible;}
+    body.menu-overlay .navbar-collapse .navbar-nav>li>a{opacity: 1; transform: none; font-size: 22px; line-height: normal;margin: 15px 0;color: #fff;}
+    body.menu-overlay .navbar-collapse .navbar-nav>li:first-child>a {transition-delay: 75ms;}
+    body.menu-overlay .navbar-collapse .navbar-nav>li:nth-child(2)>a {transition-delay: .15s;}
+    body.menu-overlay .navbar-collapse .navbar-nav>li:nth-child(3)>a {transition-delay: .225s;}
+    body.menu-overlay .navbar-collapse .navbar-nav>li:nth-child(4)>a {transition-delay: .3s;}
+    body.menu-overlay .navbar-collapse .navbar-nav>li:nth-child(5)>a {transition-delay: .375s;}
+    body.menu-overlay .navbar-collapse .navbar-nav>li:nth-child(6)>a {transition-delay: .45s;}
+    .nav-item:hover .sub-menu{height: 0;}
+    body.menu-overlay .navbar-collapse .sub-menu{height: 0;}
+    body.menu-overlay .navbar-collapse .sub-menu.active{height: auto;}
+    header.inner-pg .navbar-expand-lg .navbar-nav .nav-link{color: #fff;}
+    .nav ul li .menu a.dropdown-item{color: #fff;}
+    header .navbar-expand-lg .navbar-nav{margin: 0 auto;max-height: 70vh;overflow: auto;}
+    header .navbar-expand-lg .navbar-nav .nav-item{margin-right: 0;}
+    #magic-line{display: none;}
+    .navbar-expand-lg .navbar-nav .menu { position: initial; background: transparent; border: 0; padding: 0; text-align: center;}
+    header .navbar-collapse .dropdown-item{ color: #fff; font-size: 18px; line-height: 30px; padding: 0; display:block !important; width: auto;}
+    header .navbar-collapse .dropdown-item:hover{ background: transparent; color: #f58d25;}
+
+    
+    footer .awd .d-flex{flex-wrap: wrap;}
+    .main-banner .row .col-md-6{flex:0 0 100%;max-width: 100%;}
+    .main-banner .row .col-md-6:last-child{order: -1;}
+    .main-banner .img-sec, .main-banner .video-sec{margin: 0 auto 50px;}
+    .logo-sec{margin-bottom: -120px;bottom: 0;padding: 20px;}
+    .main-banner .row{padding-bottom: 50px;}
+    .search-banner .row{padding-bottom: 0;}
+        /* .logo-sec img{max-width: 18%;} */
+    .admission-sec {padding: 110px 0 60px 0;}
+    .common-content h1,h2{font-size: 34px;line-height: 48px;}
+    .admission-sec .card .card-header .btn-header-link{padding: 14px 20px;font-size: 16px;}
+    .admission-sec .card-body{padding: 0 20px 14px;}
+    .admission-sec{padding-top: 60px;}
+    .admission-sec .card{width: 100%;}
+    .admission-sec .collapse.show img,.admission-sec .card-body img{max-width: 100%;position: relative;display: block;padding-top: 15px;right: auto;top: auto;width: 100%;bottom: auto;}
+    .admission-sec .card:last-child .card-body img{bottom: auto;}
+    .why-institutes{padding: 60px 0;}
+    .why-institutes .col-md-6{max-width: 100%;flex:0 0 100%}
+    .why-institutes .col-md-6:first-child{padding-bottom: 40px;text-align: center;}
+    .tabbing-sec{padding-top: 60px;}
+
+    .tab-content-sec{max-width: 100%;flex-wrap: wrap;}
+    .tabbing-sec .nav-tabs{padding-left: 0px;padding-right: 0px;}
+    .call-to-act-left{max-width: 440px;}
+    .tabbing-sec .nav-tabs .nav-link{font-size: 16px;padding: 18px 9px;}
+    .tabbing-sec h3{font-size: 26px;}
+    .tab-content-sec .con-left{max-width: 100%;}
+    .tab-content-sec .con-right{padding-left: 0px;margin: 0 auto 30px;}
+    .call-to-act-sec p{font-size: 16px;}
+    footer .left-col{width: 100%;padding-right: 0;margin-right: 0;border: none;}
+    .footer-top{flex-wrap: wrap;}
+    .right-col{width: 100%;padding-top: 30px;display: flex;justify-content: space-between;}
+    footer .awd{padding-top: 0;padding-bottom: 0;}
+    .footer-btm{flex-wrap: wrap;justify-content: center;}
+    ul.social-link li:first-child{padding-left: 0;}
+    .lft-sec,.testimonial-sec:before{width: 340px;}
+    .value-text-slider .slick-track{width: 340px!important;}
+    /* .testimonial-sec:before{width: 47%;} */
+    .testimonial-sec .value-slider.slick-slider{width: calc(100% - 340px);padding-left: 10px;}
+
+    .our-word-sec .count li{padding-right: 20px;margin-right: 20px;}
+    .our-partner-sec .logo-sec{margin-bottom: 0;}
+    .main-banner.main-banner-inner-pg .row, .main-banner.main-banner-inner-pg{padding-bottom: 0;}
+    .our-partner-sec .col-md-7, .our-partner-sec .col-md-5{max-width: 100%;flex: 0 0 100%;}
+    .our-partner-sec .col-md-7{order: -1;padding-bottom: 40px;}
+    .partner-logo .logo-sec{padding-bottom: 45px;}
+    .our-partner-sec .col-md-5 ul li p{padding-bottom: 0;}
+    .our-partner-sec, .con-img-sec{padding: 60px 0;}
+    .con-img-sec .row .col-md-6{flex: 0 0 100%;max-width: 100%;}
+    .con-img-sec .row .col-md-6:first-child{max-width: 100%;}
+    .con-img-sec img{margin: 0 auto 30px;display: table;}
+    .con-img-sec .row .col-md-6:last-child{order: -1;}
+    .additional-feature .col-md-4, .additional-feature .col-md-8{max-width: 100%;flex: 0 0 100%;}
+    .additional-feature .col-md-4 h3{text-align: center;}
+    .edu-crm-sec .col-md-3{max-width: 33.3%;flex: 0 0 33.3%;}
+    /* .our-partner-sec.our-partner-sec-inner-pg{padding-bottom: 60px;} */
+    .why-use-extraadge{padding: 60px 0;}
+    .edu-crm-sec-inner-pg{padding: 60px 0 30px;}
+    .call-to-act-sec, .faq-sec{padding: 60px 20px;}
+    .testimonial-sec-product{padding: 40px 20px;}
+    .testimonial-single-slider button.slick-prev{left: -30px;}
+    .testimonial-single-slider button.slick-next{right: -30px}
+    .testimonial-single-slider .single-slide{padding: 20px;}
+    .testimonial-single-slider .single-slide .media{padding-right: 20px;}
+    .testimonial-single-slider .content p{font-size: 15px;line-height: normal;}
+    .edu-crm-sec-inner-pg .col-md-6 .card-inner{padding: 20px;}
+    .investor-profile-box .media{/*max-height: 300px;min-height: 300px;*/height: 300px;}
+    .investor-tab .tab-pane{padding-bottom: 30px;}
+    .our-webinars-box .col-md-7, .our-webinars-box .col-md-5{flex: 0 0 100%;max-width: 100%;}
+    .blog-banner{padding:36px 50px;}
+    .call-to-act-box .call-to-act-inner{flex-wrap: wrap;justify-content: center;}
+    .call-to-act-box .call-to-act{margin-left: 0;margin-top: 20px;}
+    .blog-list .nav-tabs a{padding: 15px;font-size: 16px;}
+    .previous-webinars-box .media img{max-height: 150px;min-height: 150px;}
+    .previous-webinars-box.news-box .media img{max-height: 100%;min-height: 100%;}
+    .previous-webinars-box .content h3{font-size: 16px;}
+    .our-webinars-box .col-md-5{order: -1;padding-bottom: 20px;}
+    .our-webinars-box .col-md-5.text-right{text-align: center!important;}
+    .webinars-blog-banner{height: auto;padding: 135px 0 60px;}
+    .webinars-blog-banner .col-md-7, .webinars-blog-banner .col-md-5{flex: 0 0 100%;max-width: 100%;}
+    .webinars-blog-banner .col-md-5{order: -1;padding-bottom: 20px;}
+    .webinars-blog-banner .col-md-5.text-right{text-align: center!important;}
+    .blog-product-sec .col-md-3{flex: 0 0 50%;max-width: 50%;padding-bottom: 25px;}
+    .content-btm{margin-top: 30px;}
+    .looking-for .content{padding: 60px 0;}
+    .investor-tab .nav-tabs a{padding: 20px 12px;font-size: 14px;}
+    .privacy-con-sec{padding: 60px 0;}
+    section.product-update-detail{padding-bottom: 60px;padding-top: 145px;}
+    section.product-update-detail ul.linking-sec{margin-bottom: 10px;}
+    .career-experience, .curent-opening{padding: 60px 0;}
+    .curent-opening h2{font-size: 30px;}
+    header{z-index: 9;}
+    .demo-inner{flex-wrap: wrap;flex-direction: column-reverse;padding-top: 60px;}
+    .book-a-demo .container{padding-left: 0;padding-right: 0}
+    .left-block{min-width: 100%;width: 100%;padding-top: 40px;}
+    .book-a-demo{padding: 0;}
+    .book-a-demo:before{width: 100%;height: 100px;}
+    .demo-inner .left-block{padding-top: 80px;padding-right: 0;width: 100%;min-width:100%;background: linear-gradient(91.53deg, #1A335D 0%, #1EAAE2 100%);padding-left: 20px;padding-right: 20px;}
+    .demo-inner  .right-block{width: 100%;min-width:100%;padding-left: 20px;padding-right: 20px;}
+    .awd-logo .d-flex{justify-content: flex-start;}
+    .right-block{width: 100%;padding-top: 50px;}
+    .awd-logo{padding-bottom: 30px;}
+    .con-img-sec-about p{max-width: 100%;}
+    .con-img-sec-about .row:nth-child(2n+2) .col-md-6:first-child{max-width: 100%;}
+    .career-banner{padding-bottom: 10px;}
+    .testimonial-career-slider .review-round{width: 180px;min-width: 180px;height: 180px;margin-right: 40px;}
+    .testimonial-career-slider .single-slide{align-items: center;}
+    .testimonial-career{padding: 60px 0;}
+    section.mywork-sec p{margin-bottom: 40px;}
+    section.mywork-sec .icon-box h3{font-size: 16px;}
+    section.mywork-sec .icon-box{margin-bottom: 60px;}
+    section.mywork-sec+.career-experience{padding-bottom: 0;}
+    section.mywork-sec+.career-experience .slick-slider{padding-bottom: 40px;}
+    .career-experience:before{content: none;}
+    header .navbar-expand-lg .navbar-nav .nav-link.btn{line-height: normal;font-size: 17px;padding: 12px 16px;}
+    .our-word-sec{padding: 60px 0;}
+    .edu-crm-sec{padding-top: 60px;}
+    .blog-detail{padding: 60px 0;}
+    
+    .search-box .heading{flex-direction: column;}
+    .search-box .date{order: -1;margin-bottom: 5px;}
+
+    .error-section h2{font-size: 130px;margin-bottom: 10px;}
+    .error-section p strong{margin-bottom: 10px;}    
+    section.main-banner.about-banner{padding: 145px 0 60px;}
+    .about-banner .media{bottom: 0;position: relative;}
+    .our-word-sec + .blog-product-sec .col-md-3{padding-bottom: 0;}
+    .search-help {min-width: 100%;max-width: 100%;}
+    .curent-opening table td strong{display: block;font-size: 16px;line-height: 1.4;margin-bottom: 5px;}
+    .curent-opening table td:first-child span{font-size: 13px;}
+    .curent-opening table td{font-size: 15px;vertical-align: top;padding: 20px;}
+    .curent-opening table td .common-btn{min-width: auto;white-space: nowrap;}
+    .help-catgory-sec.blog-product-sec .col-md-3{padding-bottom: 0;}
+
+    .help-content-main{flex-direction: column;padding: 0;}
+    .help-center-detail .common-content {max-width: 100%;margin-right: 0;}
+    .help-center-detail .mail-us{margin-top: 30px;}
+
+    .side-bar li a{padding-left: 25px;padding-right: 25px;}
+    .investor-tab.product-update-pg .tab-pane:before{width: 20%;}
+    .our-story .pborder-left, .our-story .pborder-right{display: none;}
+    .our-story .main-progress {width: calc(100% - 120px);}
+    .blog-detail .social-sharing{position: relative;float: none;top: auto;}
+    .blog-detail .blog-detail-inner .center-content{flex-direction: column-reverse;display: flex;}
+    .blog-detail .blog-detail-inner .common-content {max-width: 100%;margin: 0 auto;}
+
+    .sub-menu{position: relative;top: auto;}
+    .sub-menu .right-box{max-width: initial;min-width: auto;float: none;}
+    .nav-item:hover .sub-menu {height: auto;}
+    .sub-menu .sub-content h3{text-align: left;}
+    .sub-menu .sub-content{width: 50%;flex: 0 0 50%;max-width: 50%;text-align: left;margin-bottom: 25px;}
+    .active-menu header .navbar-expand-lg .navbar-nav .nav-link {color: #fff;}
+    .active-menu header .navbar-expand-lg .navbar-nav .nav-link.btn{color:#1A335D;}
+    .sub-nav-item .nav-link::after{font-size: 25px;color: #fff;margin-left: 15px;margin-top: 5px;}
+    .active-menu .current .menu-logo {display: none;}
+    .active-menu .current  .normal-logo {display: block;}
+
+    .previous-webinars .heading h3{font-size: 34px;}
+
+    .case-study-details{padding-top: 70px;}
+}
+
+@media only screen and (max-width: 767px){
+    body{overflow-x: hidden;}
+   
+    .container{padding-left: 20px;padding-right: 20px;}
+    .common-content h1, h2{font-size: 30px;line-height: 44px;}
+    .main-banner input.form-control{padding-right: 20px;}
+    .main-banner .call-to-act button{position: relative;margin: 15px auto 0;border-radius: 4px;display: table;}
+    .logo-sec{margin-bottom: 0;padding: 10px;flex-wrap: wrap;justify-content: center;}
+    .logo-sec img{max-width: 120px;flex: inherit;padding: 10px;}
+    .logogrid{flex-wrap: wrap;justify-content: flex-start;}
+    .logoanimationwrapper{width: 33.33%;}
+    .tabbing-sec .card .card-header {font-family: 'Lexend Deca', sans-serif;border: 0;padding: 0;}
+    .tabbing-sec .card .card-header h5 a{display: block;text-align: left;color: #19335D;padding: 14px 20px;font-size: 16px;font-weight: 600;}
+    .tabbing-sec .tab-content > .tab-pane{margin-bottom: 30px;}
+    .tab-content-sec{padding:30px 20px;}
+    .tabbing-sec h3{padding-bottom: 15px;}
+    .tabbing-sec .tab-content > .tab-pane:last-child{margin-bottom: 0;}
+    
+    .call-to-act-inner{flex-wrap: wrap;}
+    .call-to-act-img{order: -1;}
+    footer .left-col .column{max-width: 100%;flex: 0 0 100%;display: flex;flex-wrap: wrap;}
+    footer .left-col .column .menu:last-of-type{padding-bottom: 22px;}
+    .right-col{flex-wrap: wrap;justify-content: center;}
+    footer .awd{width: 100%;padding-top: 20px;}
+    footer .left-col .column .menu{flex: 0 0 50%;max-width: 50%;}
+    footer ul.social-link{flex-wrap: wrap;justify-content: center;}
+    .footer-btm-left{flex-wrap: wrap;justify-content: center;}
+    .footer-btm-left a{margin-left: 15px;}
+    ul.social-link li{padding-bottom: 20px;padding-bottom: 0;}
+    .our-partner-sec h3, .con-img-sec h3{font-size: 25px;line-height: normal;}
+    .our-partner-sec h3{padding-bottom: 12px;}
+    .our-partner-sec .col-md-7{padding-bottom: 20px;}
+    .con-img-sec .row{padding-bottom: 50px;}
+    .additional-feature{padding-top: 60px;}
+    .additional-feature h3{padding-bottom: 20px;}
+    .additional-feature ul{padding-left: 0;}
+    .additional-feature ul li{flex: 0 0 100%;max-width: 100%;}
+    .additional-feature ul li:last-child{padding-bottom: 0;}
+    .our-word-sec p br{display: none;}
+    .our-word-sec .count{flex-wrap: wrap;padding-top: 30px;}
+    .our-word-sec .count li:nth-child(2n+2){border: none;}
+    .our-word-sec .count li{flex: 0 0 50%;max-width: 50%;margin: 0;padding:0 10px;margin: 10px 0;}
+    .edu-crm-sec .col-md-3{flex: 0 0 100%;max-width: 100%;}
+    .edu-crm-sec{padding-bottom: 30px;}
+    .faq-sec .card .card-header .btn-header-link{padding: 18px 20px;}
+    .faq-sec .card-body{padding: 0 20px 18px;}
+    .faq-sec .card .card-header .btn-header-link{white-space: normal;}
+    .why-use-extraadge .row .col-md-4{padding-bottom: 25px;}
+    .why-use-extraadge .row .col-md-4:last-child{padding-bottom: 0px;}
+    .edu-crm-sec-inner-pg .col-md-6{padding-left: 15px;padding-right: 15px;}
+    .small-banner{height: 345px;}
+    .investor-tab .nav-tabs a{padding: 20px 6px;}
+    .blog-banner{padding: 15px;}
+    .our-webinars-box.blog-banner .col-md-5{padding-bottom: 0;}
+    .call-to-act-box .call-to-act{max-width: 100%;width: 100%;}
+    .call-to-act-box input.form-control{width: 100%;padding-right: 20px;text-align: center;}
+    .call-to-act-box .call-to-act button{position: relative;margin: 15px auto 0;border-radius: 4px;display: table;}
+    .call-to-act-box .call-to-act-inner{text-align: center;}
+    .blog-list .nav-tabs a{font-size: 14px;padding: 15px 3px;}
+    .previous-webinars-box .content h3{font-size: 15px;}
+    .main-banner .video-sec{max-width: 100%;width: 100%;}
+    .testimonial-career-slider .single-slide{flex-wrap: wrap;}
+    .testimonial-career-slider .review-round{margin: 0 auto 30px;}
+    .testimonial-career-slider .content::before,.testimonial-career-slider .content::after{width: 100%;}
+    .testimonial-career-slider .content p{text-align: justify;}
+    section.mywork-sec .icon-box{margin-bottom: 30px;}
+    section.mywork-sec .icon-box:last-child{margin-bottom: 0px;}
+    .career-experience .content{padding-top:20px;}
+    .career-experience-slider button.slick-next{left: 70%;}
+    .career-detail .content h1{font-size: 34px;}
+    .career-detail .common-content, .career-detail .content{padding-right: 30px;}
+    .career-detail .social-sharing ul{right: -10px;}
+    .common-content ol li{display: flex;}
+    .previous-webinars .col-md-4:last-child .previous-webinars-box{margin-bottom: 0;}
+    .our-webinars-box{padding: 20px 15px 30px;}
+    .our-webinars{margin-bottom: 0;}
+    .blog-product-sec .col-md-3{flex: 0 0 100%;max-width: 100%;}
+    .common-form{padding: 30px 20px;}
+    .eblog-detail{padding-top: 140px;}
+    .con-right img{max-width: 100%;}
+   
+    .search-result .mail-us{margin-left: 0;}
+    .error-section h2 {font-size: 5em;}
+    .error-section{margin-bottom: 70px;}
+    .main-banner h1{font-size: 32px;line-height: 1.5;}
+
+    .about-banner .media{max-width: 100%;}
+    .about-banner .container{flex-direction: column-reverse;}
+    .about-banner .content-sec{max-width: 100%;margin-top: 30px;}
+    .about-extraaedge{padding: 60px 0;text-align: left;}
+
+    .logo-section .icon-box{text-align: center;margin-bottom: 30px;display: flex; align-items: center;justify-content: center;}
+    .logo-section .icon-box p{max-width: calc(100% - 80px);margin: 0 0 0 10px;text-align: left;}  
+    .our-word-sec .count li h2{font-size: 8vw;}
+
+    .slider-banner{padding-bottom: 30px;}
+    .slider-banner .col-sm-6{flex: 0 0 100%;max-width: 100%;}
+    .slider-banner .img-sec-main{order: -1;}
+    .slider-banner .row {padding-bottom: 30px;}
+    .investor-tab.customer-tab .nav-tabs a{padding: 15px 20px;}  
+    .investor-tab.customer-tab h2{font-size: 30px;}
+    .investor-tab.customer-tab .tab-pane{padding:15px 0 30px;}
+    section.read-sucess-story-customer{padding-top: 60px;margin-bottom: 30px;}
+    section.read-sucess-story-customer .col-md-4{margin-bottom: 20px;}
+
+    .testimonial-sec-product{padding: 60px 0;}
+    .testimonial-single-slider .single-slide{flex-direction: column;align-items: center;padding: 0;}
+    .testimonial-single-slider .single-slide .media{padding: 0;margin-bottom: 40px;}
+    .testimonial-single-slider .content{padding: 30px 0;}
+    .testimonial-single-slider button.slick-next{right: 0}
+    .testimonial-single-slider button.slick-prev{left: 0;}
+    .news-list .nav-tabs a{padding: 15px;}
+
+    .search-help {min-width: 380px;max-width: 380px;} 
+    .search-banner input.form-control{text-align: left;}
+    .testimonial-career-slider button.slick-prev{top: 15%;right: auto;left: 0;}
+    .testimonial-career-slider button.slick-next{top: 15%;}
+    .career-experience-slider button.slick-prev{left: 0;}
+    .career-experience-slider button.slick-next{left: 55px;}
+    .curent-opening table tr{padding: 20px;display: block;}
+    .curent-opening table tr:not(:last-child){margin-bottom: 20px;}
+    .curent-opening table td{display: block;padding: 0;}
+    .curent-opening table td:first-child{width: 100%;}
+    .curent-opening table td:first-child strong,.curent-opening table td:first-child span{display: inline-block;}
+    .curent-opening table td:first-child strong{margin-right: 5px;}
+    .curent-opening table td .common-btn{margin-top: 10px;}
+    .curent-opening .filter{justify-content: flex-start;margin-top: 20px}
+
+    .investor-tab .tab-pane{padding: 0;}
+    section.investor-tab.tabbing-sec{padding: 60px 20px;}
+    section.investor-tab.tabbing-sec .collapse,section.investor-tab.tabbing-sec .collapsing{padding: 20px 0 0;}
+    .news-detail .center-content{ max-width: 100%;}
+    .news-detail .social-sharing{position: relative;margin: 0;}
+    .news-detail  .social-sharing ul{flex-direction: row;}
+    .news-detail .blog-detail-inner .common-content{display: flex;flex-direction: column-reverse;}
+    .news-detail .social-sharing ul li:not(:last-child){margin-right: 10px;}
+    .news-detail .blog-detail-inner .common-content img{height: auto;}
+    .call-to-act-sec{padding: 60px 0;}
+    .help-center-detail li.main-category + li.main-category{padding-top: 0;margin-top: 0;}
+    .help-center-detail li.main-category {padding: 5px 0;}
+    .breadcrumb{margin-bottom: 18px;}
+    .help-center-detail h3{font-size: 15px;}
+    .help-center-detail ul.linking-sec{margin-bottom: 30px;}
+
+   .product-update-pg-inner{flex-direction: column;}
+   .side-bar{border-bottom: 1px solid #E0E0E0;border-right: none;background: transparent;}
+   .product-update-sec{padding: 30px 0 40px;}
+   .investor-tab.product-update-pg .tab-pane:before{content:none}
+
+   .common-content .date-time {margin-bottom: 20px;}
+   section.previous-webinars.blog-list .nav-tabs a{padding: 5px 10px;}
+    .call-to-act-box + section.previous-webinars.blog-list{padding-bottom: 60px;}
+    .common-banner h2{font-size: 22px;}
+    .previous-webinars{padding-bottom: 30px;}
+    .previous-webinars .heading h3{font-size: 30px; line-height: 44px;}
+    .testimonial-cases-list .testimonial-case-text h1{font-size: 30px;line-height: 1.2;}
+    .testimonial-cases-list .testimonial-case-text{margin:30px 0}
+    .testimonial-cases-list .testimonial-box{margin-bottom: 30px;}
+    .testimonial-cases-list.investor-tab #menu1{padding-bottom: 50px;}
+
+    .value-wrapper{flex-direction: column;}
+    .lft-sec, .testimonial-sec:before{width: 100%;}
+    .testimonial-sec .lft-sec{height: 0;}
+     .testimonial-sec:before{height: 280px;}
+    .testimonial-sec .value-slider.slick-slider{width: 100%;}
+    .value-text-slider .slick-slide{display: none !important;}
+    .value-text-slider .slick-slide{border-radius: 10px;}
+    section.testimonial-sec.value-section button.slick-prev.slick-arrow{position: absolute;left: 0;top: 205px;transform: translateY(-50%);z-index: 9;background: transparent url(../images/arrow-left.svg) no-repeat center;border-color: #A0A0A0;}
+   section.testimonial-sec.value-section button.slick-next.slick-arrow{position: absolute;right: 0;top: 205px;transform: translateY(-50%) rotate(-180deg);left: auto;background: transparent url(../images/arrow-left.svg) no-repeat center;border-color: #A0A0A0;}
+    .cl-img{text-align: center;}
+    .testimonial-sec{margin-bottom: 60px;}
+
+    .faq-sec{padding-left: 0;padding-right: 0;}
+    .faq-sec .container {max-width: 100%;}   
+    .blog-detail .blog-grey-back img{height: auto;margin: 20px 0}  
+    .blog-detail .social-sharing ul{flex-direction: row;}
+    .blog-detail .social-sharing ul li:not(:last-child){margin-right: 5px;}
+    .progress-text .year{display: none;font-size: 26px;}
+    .progress-text .year.active{display: block;text-align: center;}
+    .progress-text .year span {margin-right: 0;} 
+    .progress-text .year::after{right: 0;}
+    .progress-text .year::before{content:"";height: 14px;width: 14px;background-color: #DE6E33;position: absolute;border-radius: 50%;bottom: -26px;left: 0;}
+    .our-story .slick-initialized .slick-slide{flex-direction: column;}
+    .our-story .slick-initialized .slick-slide h3{width: 100%;min-width: 100%;margin-bottom: 20px;line-height: 1.3;font-size: 22px;}
+    .blog-detail .center-content .title{font-size: 30px;}
+    .common-content img{width: auto;height: auto;}
+    .case-study-details .left-content.common-content h2{font-size: 25px;margin-bottom: 20px;}
+
+    .investor-profile-box .media{height: 250px;}
+    .investor-profile-box.tab-new-1 .media{padding: 30px;}
+
+    .custom-apply-career .modal-content{padding: 40px 30px;}
+
+    .tab-content-sec .con-left{max-width: 100%;width: 100%;}
+    .tab-content-sec .con-right{width: 100%;margin-top: 30px;} 
+
+    .call-to-act-left{max-width: 100%;padding-right: 0;}
+    .call-to-act-img{margin: 0 auto;}
+    .message-div{padding: 5px 20px 5px 10px;}
+    .message-div h3{font-size: 14px;line-height: 22px;}
+    .message-div .close{right: 10px;}
+    .message-div .close i{width: 13px;height: 13px;}
+}
+@media only screen and (max-width: 567px){
+    .container{max-width: 100%;padding-left: 20px;padding-right: 20px;}
+    .search-result .mail-us{max-width: 100%;}
+    section.main-banner.about-banner{padding: 145px 0 30px;}
+    .logo-section .icon-box{flex-direction: column;}
+    .logo-section .icon-box p{margin: 10px auto 0;text-align: center;max-width:100%}   
+    .slider-banner .img-sec {max-width: 100%;margin: 0 auto 24px;}
+
+    .logoanimationwrapper{width: 50%;padding: 10px 0;}
+    .logo-sec{padding: 20px;border-radius: 40px;}
+    .logosingle.logoani2{max-width: 100px;}
+    .investor-tab.customer-tab p{max-width: 100%;}
+    .investor-tab.customer-tab .nav-tabs{margin-top: 40px;}
+    .testimonial-single-slider .single-slide .media-inner{height: 243px;}
+    .testimonial-single-slider .single-slide .media::after{left: 0;bottom: -20px;}
+    section.previous-webinars.blog-list.news-list .previous-webinars-box{height: auto;margin-bottom: 0;}
+    .news-list .nav-tabs a{padding: 15px 10px;}
+    .news-list .search{margin-left: 10px;}
+    section.mywork-sec .icon-box h3{font-size: 14px;}
+
+    .curent-opening .filter{flex-wrap: wrap;align-items: flex-start;}
+    .curent-opening .filter label{max-width: 100%;flex: 0 0 100%;display: none;}
+    .curent-opening .filter .dropdown {margin-left: 0;margin-right: 10px;width: calc(50% - 10px);}
+    .curent-opening .filter .dropdown-toggle{min-width: 100%;}
+    .curent-opening table{border-spacing: 0;}
+    .our-partner-sec.our-partner-sec-inner-pg h2 {margin-bottom: 0;}
+    .call-to-act-sec-inner .call-to-act-img{margin: 0 auto;}
+    .call-to-act-sec-inner .call-to-act-img img{max-height: 230px;}
+    .help-catgory-sec.blog-product-sec .col-md-3:last-child{margin-bottom: 0;}
+
+    .content-sec.search-help-sec{width: 100%;}
+    .content-sec.search-help-sec .search-help{min-width: 100%;max-width: 100%;}
+    .help-center-detail .common-content iframe{margin-bottom: 20px;height: auto;min-height: 230px;}
+    .helpful-div{padding: 15px}
+    .helpful-div span {font-size: 15px;}
+    .upsec-date{flex-direction: column-reverse;align-items: flex-start !important}
+    .product-update-sec .bdth{padding: 5px;margin-top: 5px;}
+    .product-update-sec .up-sec{padding-bottom: 20px;align-items: flex-start;}
+    .call-to-act-box .call-to-act-inner{padding: 30px 20px;}
+    .call-to-act-box .call-to-act{margin-top: 15px;}
+    .call-to-act-box .call-to-act button, .call-to-act-box input.wpcf7-form-control.wpcf7-submit{position: relative;border-radius: 4px;margin-top: 10px;}
+    section.previous-webinars.blog-list .nav-tabs a{padding: 5px;}
+    .common-banner .date-time{flex-wrap: wrap;}
+    .common-banner .date-time span{margin-top: 10px;font-size: 14px;}
+    .common-banner .date-time{margin-top: 0;}
+    .common-banner .date-time img {width: 16px;}
+    .blog-testimonial .sub-content{flex-direction: column;}
+    .blog-testimonial .sub-content .media{margin-bottom: 20px;}
+    .testimonial-cases-list .testimonial-case-text p{width: 100%;}
+    .our-story .main-progress {width: calc(100% - 110px);}  
+    .sub-menu .sub-content{max-width: 100%;width: 100%;flex: 0 0 100%;}
+
+    section.mywork-sec .icon-box img{ width: 50px;}
+
+    /* added by twinkle  */
+
+    #career-form-success .modal-confirm .modal-content{ padding: 70px 20px;}
+    #career-form-success .modal-confirm .modal-content .modal-body p{line-height: normal;}
+    
+}
+@media only screen and (max-width: 360px){
+    .logo-section .icon-box{flex: 0 0 100%;max-width: 100%;}
+    .logo-section .icon-box p{margin: 20px auto 0;}
+
+    .testimonial-single-slider button.slick-prev{bottom: -80px;top: 20%;left: -12px;background-color: #fff;}
+    .testimonial-single-slider button.slick-next{top: 20%;right: -12px;background-color: #fff;}
+    .news-list .search input[type="text"]{width: 100%;}
+    .news-list .search .form-section{right: -10px;width: 290px;}
+
+    .search-help {min-width: 100%;max-width: 100%;}
+    .investor-tab .nav-tabs a{padding: 10px 6px;}
+    .curent-opening .filter .dropdown{margin-bottom: 10px;width: 100%;}
+    .helpful-div{flex-direction: column;align-items: flex-start;}
+    .helpful-div .feedback-image{margin-top: 15px;}
+    .feedback-image .wrap-emjio:first-child{padding-left: 0;}
+    section.investor-tab.product-update-pg .nav-tabs a{padding: 10px;}
+    .side-bar ul{padding: 20px 0 0;}
+    .side-bar li:last-child{padding-bottom: 20px;}
+    .product-update-sec .crd-sec{padding: 20px;}
+}
